@@ -12,7 +12,6 @@ Our ultimate goal is to provide actionable insights into what drives car value a
 * **`README.md`** → Project summary (this file)
 * **`used_car_analysis.ipynb`** → Main Jupyter notebook with full analysis
 * **`images/`** → Folder containing saved visualizations
-* **`models/`** → Saved trained model pipelines (`.pkl`) for deployment
 
 ---
 
